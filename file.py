@@ -1,0 +1,6 @@
+fp=open("f1.txt")
+print(fp.read())
+fp.close()
+fp=open("f2.txt")
+print(fp.read())
+fp.close()
